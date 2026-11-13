@@ -18,8 +18,9 @@ Modelo funcional y simplificado de una CPU con sistema de entrada/salida, constr
 
 | Nombre | ID |
 |---|---|
-| Ángel Josué Ramírez Quiñónez | <!-- COMPLETAR: carnet/ID de Ángel --> |
-| <!-- COMPLETAR: nombre del compañero/a (borrar esta fila si el proyecto fue individual) --> | <!-- COMPLETAR: ID --> |
+| Angel Josue Ramirez Quiñonez | 000137770 |
+| Edgar Illescas | <!-- COMPLETAR: ID --> |
+| Ximena de León | <!-- COMPLETAR: ID --> |
 
 ---
 
