@@ -88,19 +88,13 @@ stateDiagram-v2
 - **Detalle de pines:** [`DOCUMENTATION/PINOUT_FINAL.md`](DOCUMENTATION/PINOUT_FINAL.md)
 - **Lista de componentes:** [`DOCUMENTATION/COMPONENTES.md`](DOCUMENTATION/COMPONENTES.md)
 
-<!--
-  INSERTAR IMAGEN (diagrama del circuito): captura o exportación del diagrama de Cirkit Designer.
-  Archivo sugerido: HARDWARE/Diagrama_Circuito.png
-  Copiar esta línea justo debajo de este comentario:
   ![Diagrama del circuito en Cirkit Designer](HARDWARE/Diagrama_Circuito.png)
--->
 
-<!--
-  INSERTAR IMAGEN (ensamblaje): foto clara y enfocada del prototipo armado en la protoboard.
-  Archivo sugerido: MEDIA/Foto_Ensamblaje_01.jpg
-  Copiar esta línea justo debajo de este comentario:
-  ![Ensamblaje del prototipo en protoboard](MEDIA/Foto_Ensamblaje_01.jpg)
--->
+  ![Ensamblaje del prototipo en protoboard](MEDIA/Foto_Ensamblaje_02.jpg)
+
+  ![Ensamblaje del prototipo en protoboard](MEDIA/Foto_Ensamblaje_03.jpg)
+
+  ![Ensamblaje del prototipo en protoboard](MEDIA/Foto_Final_01.jpg)
 
 ---
 
