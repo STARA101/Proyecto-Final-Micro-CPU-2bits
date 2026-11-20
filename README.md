@@ -89,7 +89,6 @@ stateDiagram-v2
   ![Diagrama del circuito en Cirkit Designer](Micro-CPU-2Bits/HARDWARE/Diagrama_Circuito.png)
   ![Ensamblaje del prototipo en protoboard](Micro-CPU-2Bits/MEDIA/Foto_Ensamblaje_02.jpg)
   ![Ensamblaje del prototipo en protoboard](Micro-CPU-2Bits/MEDIA/Foto_Ensamblaje_03.jpg)
-  ![Ensamblaje del prototipo en protoboard](Micro-CPU-2Bits/MEDIA/Foto_Final_01.jpg)
 ---
  
 ## Instrucciones de uso
