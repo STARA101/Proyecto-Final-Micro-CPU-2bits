@@ -20,7 +20,7 @@ Modelo funcional y simplificado de una CPU con sistema de entrada/salida, constr
 |---|---|
 | Angel Josue Ramirez Quiñonez | 000137770 |
 | Edgar Illescas | 000099911 |
-| Ximena de León | <!-- COMPLETAR: ID --> |
+| Ximena de León | 000126356 |
 
 ---
 
