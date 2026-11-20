@@ -19,7 +19,7 @@ Modelo funcional y simplificado de una CPU con sistema de entrada/salida, constr
 | Nombre | ID |
 |---|---|
 | Angel Josue Ramirez Quiñonez | 000137770 |
-| Edgar Illescas | 000099911 |
+| Edgar Emilio Illescas Méndez | 000099911 |
 | Ximena de León | 000126356 |
  
 ---
